@@ -1,6 +1,5 @@
  {
   "spider": "https://gitee.com/lanny520/study/raw/master/jar/xiaobai.jar",
-  //"spider": "./jar/ok.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://gitee.com/lanny520/study/raw/master/JS/logo.jpg",
   "sites": [
