@@ -1,8 +1,8 @@
  {
-  "spider": "https://gitee.com/lanny520/study1/raw/master/jar/ok.jar",
+  "spider": "https://gitee.com/lanny520/study/raw/master/jar/xiaobai.jar",
   //"spider": "./jar/ok.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-  "logo": "https://gitee.com/lanny520/study1/raw/master/JS/logo.jpg",
+  "logo": "https://gitee.com/lanny520/study/raw/master/JS/logo.jpg",
   "sites": [
     {
       "key": "豆瓣",
@@ -212,19 +212,6 @@
                 "danmu": true
             },
       "timeout": 30
-    },
-    {
-      "key": "云集资源",
-      "name": "云集资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_YunJiGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
     },
     {
       "key": "极狐",
